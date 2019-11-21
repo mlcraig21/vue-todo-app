@@ -29,15 +29,15 @@ export default {
       todos: [
         {
           id: todoId++,
-          text: "Add new Item"
+          text: "Add more todo items"
         },
         {
           id: todoId++,
-          text: "Check off item"
+          text: "Check off todo items"
         },
         {
           id: todoId++,
-          text: "Beat Ty to a Ty Pun"
+          text: "Delete these todo items"
         }
       ]
     };
